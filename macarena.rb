@@ -23,6 +23,7 @@ def macarena
 
 
   puts "Step 8: Bring your left hand up and around to the back your head"
+  puts "Turn to the left"
   
 end
 
